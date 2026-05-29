@@ -1,0 +1,41 @@
+# Cookie Consent Banner
+
+Componente de banner de consentimento de cookies desenvolvido durante estágio,
+aplicado em projeto real em ambiente Webflow.
+
+## Sobre o projeto
+
+Banner fixo que aparece na parte inferior da tela solicitando o consentimento
+do usuário para uso de cookies, seguindo boas práticas de privacidade (LGPD).
+
+## Funcionalidades
+
+- Exibe o banner automaticamente na primeira visita
+- Botão para aceitar ou recusar cookies
+- Salva a escolha do usuário em um cookie por 12 meses
+- Não exibe o banner novamente após a escolha
+- Animação suave de entrada e saída
+- Layout responsivo para mobile e desktop
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript (Vanilla)
+
+## Estrutura de arquivos
+    cookie_consent/
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    ├── .gitignore
+    └── README.md
+
+## 🚀 Como visualizar
+
+1. Clone o repositório
+2. Abra o arquivo `index.html` no navegador
+
+## Contexto
+
+Desenvolvido durante estágio como componente aplicado em projeto real.        
