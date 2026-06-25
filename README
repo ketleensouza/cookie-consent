@@ -31,7 +31,7 @@ do usuário para uso de cookies, seguindo boas práticas de privacidade (LGPD).
     ├── .gitignore
     └── README.md
 
-## 🚀 Como visualizar
+##  Como visualizar
 
 1. Clone o repositório
 2. Abra o arquivo `index.html` no navegador
